@@ -35,7 +35,24 @@ Open terminal in the project folder
 Run the program: python drone_route_optimization.py
 Enter coordinates when prompted 
 The system will display the optimal route and shortest distance.
-
 python drone_route_optimization.py
 Enter coordinates when prompted
-The system will display the optimal route and shortest dista
+The system will display the optimal route and shortest distance
+![Output](project3_output.png.jpeg)
+
+ Skills Demonstrated
+Python programming fundamentals
+Mathematical modeling of navigation problems
+Algorithmic route optimization
+Problem-solving using permutations
+Real-world logistics simulation thinking.
+
+ Future Improvements
+Add map visualization
+Support for large datasets using better algorithms
+Implement greedy or graph-based optimization methods
+Add GUI interface
+Add drone speed & battery simulation.
+
+ Learning Outcome
+This project helped me understand how optimization problems in drone delivery and logistics can be solved using Python programming and mathematical modeling techniques.
